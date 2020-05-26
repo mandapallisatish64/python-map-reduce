@@ -13,8 +13,8 @@ with open("part.txt", "r") as input:
         date, time,store, department, amount, paymentType = datalist
 
         # output intermediate key-value pairs
-        output.write(store + "\t" + amount + "\n")
+        output.write(paymentType + "\t" + amount + "\n")
 
         # display to console (not required - just for the user)
-        print(store + "\t" + amount + "\n")
+        print(paymentType + "\t" + amount + "\n")
 
