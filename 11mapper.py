@@ -3,7 +3,7 @@
 # Not quite Hadoop-ready
 
 # open returns a file object
-with open("part.txt", "r") as input:
+with open("purchases.txt", "r") as input:
   with open("paymentTypeMapper.txt", "w") as output:
 
     # iterate through each line in the file object
