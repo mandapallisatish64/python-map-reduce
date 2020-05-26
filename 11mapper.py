@@ -4,7 +4,7 @@
 
 # open returns a file object
 with open("part.txt", "r") as input:
-  with open("output11mapped.txt", "w") as output:
+  with open("paymentTypeMapper.txt", "w") as output:
 
     # iterate through each line in the file object
     for line in input:
