@@ -37,6 +37,9 @@ cat part.txt | python 21mapper.py | sort
 cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ```
+To work with larger files:
+
+``` cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py ```
 
 ## References
 
