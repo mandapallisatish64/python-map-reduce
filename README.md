@@ -49,4 +49,4 @@ To work with larger files:
 
 ## Repository
 
-- [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
+- [ https://github.com/mandapallisatish64/python-map-reduce]( https://github.com/mandapallisatish64/python-map-reduce)
